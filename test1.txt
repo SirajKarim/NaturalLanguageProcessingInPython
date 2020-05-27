@@ -1,0 +1,15 @@
+NLP is a way for computers to analyze, understand, and derive meaning from human language in a smart and useful way.
+       By utilizing NLP, developers can organize and structure knowledge to perform tasks such as automatic summarization, 
+       translation, named entity recognition, relationship extraction, sentiment analysis, speech recognition, and topic 
+       segmentation.Apart from common word processor operations that treat text like a mere sequence of symbols, NLP considers
+       the hierarchical structure of language: several words make a phrase, several phrases make a sentence and, ultimately,
+       sentences convey ideas,” John Rehling, an NLP expert at Meltwater Group,said in How Natural Language Processing Helps
+       Uncover Social Media Sentiment. “By analyzing language for its meaning, NLP systems have long filled useful roles, 
+       such as correcting grammar, converting speech to text and automatically translating between languages.NLP is used 
+       to analyze text, allowing machines to understand how human’s speak. This human-computer interaction enables real-world 
+       applications like automatic text summarization,sentiment analysis, topic extraction, named entity recognition, 
+       parts-of-speech tagging, relationship extraction,stemming, and more. NLP is commonly used for text mining, machine 
+       translation, and automated question answering.NLP is characterized as a hard problem in computer science. Human language
+       is rarely precise, or plainly spoken.To understand human language is to understand not only the words, but the concepts 
+       and how they’re linked together to create meaning. Despite language being one of the easiest things for humans to learn
+       , the ambiguity of language is what makes natural language processing a difficult problem for computers to master.
